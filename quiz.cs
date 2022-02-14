@@ -114,6 +114,8 @@ class quiz{
             break;
         }
 
+//final question...
+        
         Console.WriteLine(" third and final question!!!");
         Console.WriteLine(" Jonh wants to go on the playground, but...\n only have 12 years old, and have 130 (cm)\n So, what`s the attractions who jonh can go to?");
         Console.WriteLine("\n 1 - roller coaster = age - 15 or height - 160\n 2 - cavern boat = age - 14 or height - 120\n 3 - bumper car = age 12 or height - 150 ");
