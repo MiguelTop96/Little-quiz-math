@@ -68,7 +68,7 @@ class quiz{
             Environment.Exit(0);
             break;
             default:
-            Console.WriteLine("no no no, that`s is not a option");
+            Console.WriteLine("no no no, that`s not a option");
             Console.ReadKey();
             Environment.Exit(0);
             break;
